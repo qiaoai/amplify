@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-huehue-dev-81953-authRole",
+      "UnauthRoleArn": "arn:aws:iam::453205255858:role/amplify-huehue-dev-81953-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::453205255858:role/amplify-huehue-dev-81953-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-huehue-dev-81953-deployment",
+      "UnauthRoleName": "amplify-huehue-dev-81953-unauthRole",
+      "StackName": "amplify-huehue-dev-81953",
+      "StackId": "arn:aws:cloudformation:us-east-1:453205255858:stack/amplify-huehue-dev-81953/a699b0d0-28c2-11ed-98f4-0e1b087f5a35",
+      "AmplifyAppId": "d22kxsxoo29pmy"
+    }
+  },
+  "huehue": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-huehue-huehue-84747-authRole",
+      "UnauthRoleArn": "arn:aws:iam::453205255858:role/amplify-huehue-huehue-84747-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::453205255858:role/amplify-huehue-huehue-84747-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-huehue-huehue-84747-deployment",
+      "UnauthRoleName": "amplify-huehue-huehue-84747-unauthRole",
+      "StackName": "amplify-huehue-huehue-84747",
+      "StackId": "arn:aws:cloudformation:us-east-1:453205255858:stack/amplify-huehue-huehue-84747/8c099fb0-28c6-11ed-8760-1205850a37e9",
+      "AmplifyAppId": "d22kxsxoo29pmy"
+    },
+    "categories": {
+      "auth": {
+        "huehueab3dc915": {}
+      }
+    }
+  }
+}
